@@ -1,0 +1,97 @@
+body {
+ height:100%;
+ margin:0;
+ padding:0;
+ background:#FFFFFF;
+ color: #000000;
+ font-family:Verdana;
+ font-size: 12px;
+ background-image:url('./img/back3_b.jpg');
+}
+
+img {
+ border:none;
+}
+
+.ico_main {
+ float:left;
+ filter:alpha(opacity=50);
+ -moz-opacity: 0.5;
+ -khtml-opacity: 0.5;
+ opacity: 0.5;
+}
+
+
+#div_main_inside {
+ margin:0;
+ padding:0;
+ color: #FFFFFF;
+ line-height: 1.4em;
+}
+
+#p_title {
+ margin:0;
+ padding:0;
+ padding-bottom:5px;
+ font-size:18px;
+}
+
+#p_article_header1 {
+ margin:0;
+ padding:0;
+ padding-top:40px;
+ font-size:18px;
+ line-height: 24px;
+}
+
+table, tr, td {
+ color: #FFFFFF;
+ font-family:Verdana;
+ font-size: 12px;
+ line-height: 1.4em;
+}
+
+a {     
+ color:#FFFFFF;
+ font-weight:bold;
+ text-decoration : none;
+}
+a:hover { 
+ color:#FFFFFF;
+ font-weight:bold;
+ text-decoration:underline;
+}
+
+a.menus {
+ color:#0000FF;
+}
+a.menus:hover {
+ color:#0000FF;
+}
+
+#d_center {
+text-align:center;
+}
+
+#foto_descr {
+ margin:5px;
+ font-weight:bold;
+ font-style: italic;
+}
+
+#articles_q {
+ font-style: italic;
+}
+
+#articles_intro {
+ font-size: 14px;
+ font-style: italic;
+}
+
+#d_right {
+text-align:right;
+}
+
+
+
+
