@@ -1,0 +1,3 @@
+var sFoot = "<!-- end page content --></td><td width=\"21\" height=\"21\" style=\"background-image:url('./img/b_12.png'); background-repeat: repeat-y;\"></td></tr><tr><td width=\"21\" height=\"21\" style=\"background-image:url('./img/b_20.png'); background-repeat: no-repeat;\"></td><td height=\"21\" style=\"background-image:url('./img/b_21.png'); background-repeat: repeat-x;\"></td><td width=\"21\" height=\"21\" style=\"background-image:url('./img/b_22.png'); background-repeat: no-repeat;\"></td></tr></table><br /><div style=\"width:1;height:50\"></div></div>";
+
+document.write(sFoot);
