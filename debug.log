@@ -1,7 +1,0 @@
-[0916/170248.669:ERROR:file_io_win.cc(179)] CreateFile C:\Users\a1\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Отказано в доступе. (0x5)
-[0916/170248.681:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Канал был закрыт. (0x6D)
-[0916/170248.683:ERROR:file_io_win.cc(179)] CreateFile C:\Users\a1\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Отказано в доступе. (0x5)
-[0916/170322.514:ERROR:file_io_win.cc(179)] CreateFile C:\Users\a1\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Отказано в доступе. (0x5)
-[0916/170322.517:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
-[0916/170322.526:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Канал был закрыт. (0x6D)
-[0916/170322.528:ERROR:file_io_win.cc(179)] CreateFile C:\Users\a1\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Отказано в доступе. (0x5)
